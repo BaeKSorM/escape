@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 704da93b9cc4c9746ae3387b8d510ede
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6696ba7477b3574790108c3187dc91a
+      internalID: -543091507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b76d25fc2d88448bdcdda0a76f3d68
+      internalID: 514082870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd8a5dce761ca439e4ea285a9e8122
+      internalID: -103868154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_3"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38199d2461b0c41acbcf9b308f512c
+      internalID: 615312835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb3e73dc15d6b843bce0fda4d2fb5cb
+      internalID: 933091845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_5"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48944b6c34b0c1c47ba737a4bac53500
+      internalID: -2100511193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_6"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5906ae7338322341af49cd7b85715aa
+      internalID: -1233688677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_7"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c9c0ba8e6caf4885d09b17b810215
+      internalID: 1180864291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84969f2cbe88914cae3a10465cca8c9
+      internalID: -1249224497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_9"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950f6a284538da4f8f9d5ea15231df5
+      internalID: -293278331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_10"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b02d22581f8114dbecc5876e8ae7a4
+      internalID: -534471829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_11"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bbc574f21b144ea15b438a543adc4
+      internalID: -804683263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_12"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4880f332ada8a449d2c9725c58be46
+      internalID: 871795439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_13"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58323602e245d4347afd75816ee6dd9c
+      internalID: -198421422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_14"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77056f0a474e34cae452f16de8694a
+      internalID: 2102385826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe323d67ddd0e14180a1d4dec7955fa
+      internalID: -1242370770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_16"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1155722c3cb0dd4a80f966eb5287fd6
+      internalID: -918496201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_17"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7f159bdd0446498e5c25cf7cc76a7
+      internalID: 1292475410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_18"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4415af3c09db834db0dcc27414699da
+      internalID: 519069915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_19"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905eefeb7bd3bb4fa00333e785028ec
+      internalID: -2025936465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_20"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc57b6c451d6841ac7b130ae8ec788
+      internalID: 370629151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_21"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88cdde5b4289940a5ba8f37c755d91
+      internalID: 126949486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb24f3d227679304fb227912735956d5
+      internalID: 1017907197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_23"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9e7b254053e14dbe134878c812d1b
+      internalID: -2060165989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_24"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce6a35947037244a836ee5dae40b71
+      internalID: -809260366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_25"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2807166e8cca634cb72f2e780eea090
+      internalID: 1136639798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_26"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608cc401d9b0c849adf881f1c0594d4
+      internalID: 1681665284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_27"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08684df2369f94a9acff7e8c74b704
+      internalID: 415746545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_28"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9b446d046d3641a7f9470ef07bdbf
+      internalID: 1225824499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5a3bbda09a604caa40c955dcf1713
+      internalID: -1388876215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_30"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a26c7ef7de1b1499cc30f34f6115c5
+      internalID: -968588837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_31"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbced3e64e215704f9f3379bc437ece1
+      internalID: -1706210009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_32"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851b58fad8cf0384da384d69a80d4b54
+      internalID: -1515649754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_33"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd38cdac62b584f81a34c7f9b9ddb6
+      internalID: 664650108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_34"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3e287390c4e14fa680fc14baa8624
+      internalID: -1501583188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_35"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b40bd779c3a24d8871932165ece72
+      internalID: 455893705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bd577f5980774299870cb4b836b3d
+      internalID: 2014135318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_37"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ccb1eece6cc44b86febc88c7fc0fb
+      internalID: -190010746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_38"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95e879d2b50a44393d99d5888e6e9a
+      internalID: -1967464715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_39"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5926eb6154231d140818ccbad5ce0e7a
+      internalID: 1889987497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_40"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc05d15f2840b49b9aff8e681f1ecf
+      internalID: -955821707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_41"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79907e45f43d6284eaa336e34dab41ea
+      internalID: 368243622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f017537aa0084c81d73ee0c4bf879
+      internalID: -116285101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_43"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccf9dfdbba9f04ebceeeeec672d423
+      internalID: 305403685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_44"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32.25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63cee885e303245a63d3a06a1fb00e
+      internalID: 1132964865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_0": -543091507
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_1": 514082870
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_10": -534471829
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_11": -804683263
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_12": 871795439
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_13": -198421422
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_14": 2102385826
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_15": -1242370770
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_16": -918496201
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_17": 1292475410
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_18": 519069915
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_19": -2025936465
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_2": -103868154
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_20": 370629151
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_21": 126949486
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_22": 1017907197
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_23": -2060165989
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_24": -809260366
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_25": 1136639798
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_26": 1681665284
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_27": 415746545
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_28": 1225824499
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_29": -1388876215
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_3": 615312835
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_30": -968588837
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_31": -1706210009
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_32": -1515649754
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_33": 664650108
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_34": -1501583188
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_35": 455893705
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_36": 2014135318
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_37": -190010746
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_38": -1967464715
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_39": 1889987497
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_4": 933091845
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_40": -955821707
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_41": 368243622
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_42": -116285101
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_43": 305403685
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_44": 1132964865
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_5": -2100511193
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_6": -1233688677
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_7": 1180864291
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_8": -1249224497
+      "Basic Tilemap 1 copy 1 \uBCF5\uC0AC 2_9": -293278331
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
